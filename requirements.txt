@@ -1,0 +1,16 @@
+apprise==0.9.4
+#numpy==1.19.5
+pandas
+#et-xmlfile
+#openpyxl
+#xlrd
+#xlsxwriter
+python-binance==1.0.12
+#TA-Lib==0.4.9
+unicorn-binance-websocket-api==1.34.0
+Flask==2.0.1
+flask-socketIO==5.1.1
+redis
+typeguard
+marshmallow
+marshmallow-dataclass

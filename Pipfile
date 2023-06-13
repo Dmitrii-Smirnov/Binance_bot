@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-binance = "*"
+python-socketio = {extras = ["client"], version = "*"}
+cachetools = "*"
+unicorn-fy = "*"
+unicorn-binance-websocket-api = "*"
+numpy = "*"
+redis = "*"
+marshmallow = "*"
+marshmallow-dataclass = "*"
+pandas = "*"
+typeguard = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
